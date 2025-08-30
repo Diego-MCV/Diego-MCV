@@ -43,9 +43,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Moises GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
+![Moises GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-MCV&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MCV&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Diego-MCV&theme=tokyonight)
 
 ---
 
